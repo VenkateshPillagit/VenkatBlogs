@@ -1,0 +1,30 @@
+[
+    {
+        "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+        "title": "A Begginers Guide to Blogging",
+        "path": "beginnerGuide",
+        "author": "Venkatesh Pilla",
+        "posteddate": "Tue Jul 25 2023"
+    },
+    {
+        "content": "Youngsoft is an information technology company founded in 1996 and headquartered in Wixom, Michigan. Throughout its history, Youngsoft has specialized in IT Consulting Services, Project Delivery, and Team Staffing for clients throughout the world ranging from startups to industry leaders.",
+        "title": "About YoungSoft India",
+        "path": "ysoft",
+        "author": "YoungSoft India",
+        "posteddate": "Mon Jul 24 2023"
+    },
+    {
+        "content": "At ABSYZ, armed with the passionate and driven minds in Salesforce.com and allied digital technologies. Our DNA is all about going the extra mile to create customer delight. The values that are most important to every ABSYZIAN and at ABSYZ we strive for…",
+        "title": "About ABSYZ",
+        "path": "absyz",
+        "author": "ABSYZ",
+        "posteddate": "Sun Jul 23 2023"
+    },
+    {
+        "content": "Exyte is an international company for design, engineering, procurement, and construction in controlled and regulated environments.",
+        "title": "About Exyte",
+        "path": "exyte",
+        "author": "EXYTE",
+        "posteddate": "Sat Jul 22 2023"
+    }
+]
